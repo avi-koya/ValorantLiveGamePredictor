@@ -1,0 +1,2 @@
+[console_scripts]
+valorant-predictor = live_win_prob.gather_data:main
